@@ -6,4 +6,4 @@ Script used for metagenomic analyses
 
 3. humann3_analyses.sbatch contains the command lines and settings for humann3 (functional analyses) and an R script to obtain the final normalised read count table.
 
-4. mapping_to_Resfinder_database_bowtie2.sbatch contains the code used to map reads against ResFinder database; conversion of SAM to BAM files and sorting of read count table with BEDtools
+4. mapping_to_Resfinder_database_bowtie2.sbatch contains the code used to map reads against ResFinder database; conversion of SAM to BAM files and sorting of read count table with BEDtools.
